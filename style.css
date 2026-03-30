@@ -1,0 +1,124 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  background-color: #b0e0e6; /*blue*/
+  border-radius: 50%;
+  position: absolute;
+  cursor: pointer;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffb6c1; /* light pink */
+  text-align: center;
+  color: #333;
+}
+
+/* Header styling */
+header {
+  background-color: #ffb6c1; /* pink */
+  color: white;
+  padding: 30px 20px;
+}
+
+/* Image inside header */
+header img {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+  border-radius: 10px;
+}
+
+/* Start Game button */
+header button {
+  padding: 12px 25px;
+  font-size: 18px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: #9333ea; /* purple */
+  color: white;
+  margin-top: 15px;
+  
+}
+
+
+/* Section styling */
+section {
+  background-color: white;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Footer styling */
+footer {
+  margin-top: 30px;
+  padding: 15px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+
+/* Section styling */
+section {
+  background-color: white;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+
+}
+
+/* Footer styling */
+footer {
+  margin-top: 30px;
+  padding: 15px;
+  font-size: 0.9rem;
+  color: #555;
+}; /pink/
+  color: white;
+  padding: 30px 20px;
+}
+
+/* Image inside header */
+header img {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+  border-radius: 10px;
+}
+
+/* Start Game button */
+header button {
+  padding: 12px 25px;
+  font-size: 18px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: #add8e6; /* light blue */
+  color: white;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+
+/* Section styling */
+section {
+  background-color: white;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
